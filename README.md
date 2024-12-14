@@ -30,7 +30,7 @@ Enter Student ID:
 
 Enter Password:
 > password123
-
+```
 If the credentials are correct, the user will be redirected to the main menu where they can view their grades, averages, and more. The color of the text that indicates the average of the student is written depends on whether it is greater or smaller than the class average.
 
 ## Code Explanation
