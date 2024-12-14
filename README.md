@@ -20,19 +20,17 @@ The **Student Management System** is a Java-based application that allows users 
 - **PasswordHashmap.java**: Manages reading and updating passwords for users stored in a text file.
 ## Example Usage
 
-### Login
+### Screenshots
 
-Upon running the program, the user will be prompted with:
+![Login Screen](e-school/github4.png)
+![Wrong User ID](e-school/github5.png)
+![Wrong Password](e-school/github6.png)
+![Logging Out Pop-up](e-school/github2.png)
 
-![My Image](java-projects/e-school/github1.png)
+![Student1's Interface](e-school/github3.png)
 
-```plaintext
-Enter Student ID:
-> Student1
+![Admin's Interface](e-school/github3.png)
 
-Enter Password:
-> password123
-```
 If the credentials are correct, the user will be redirected to the main menu where they can view their grades, averages, and more. The color of the text that indicates the average of the student is written depends on whether it is greater or smaller than the class average.
 
 ## Code Explanation
