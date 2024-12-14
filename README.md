@@ -24,7 +24,7 @@ The **Student Management System** is a Java-based application that allows users 
 
 Upon running the program, the user will be prompted with:
 
-![My Image](java-projects/github1.png)
+![My Image](java-projects/e-school/github1.png)
 
 ```plaintext
 Enter Student ID:
