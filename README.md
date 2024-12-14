@@ -32,7 +32,7 @@ The **Student Management System** is a Java-based application that allows users 
 ---
 ![Student1's Interface](e-school/github3.png)
 ---
-![Admin's Interface](e-school/github3.png)
+![Admin's Interface](e-school/github1.png)
 ---
 If the credentials are correct, the user will be redirected to the main menu where they can view their grades, averages, and more. The color of the text that indicates the average of the student is written depends on whether it is greater or smaller than the class average.
 
