@@ -23,14 +23,17 @@ The **Student Management System** is a Java-based application that allows users 
 ### Screenshots
 
 ![Login Screen](e-school/github4.png)
+---
 ![Wrong User ID](e-school/github5.png)
+---
 ![Wrong Password](e-school/github6.png)
+---
 ![Logging Out Pop-up](e-school/github2.png)
-
+---
 ![Student1's Interface](e-school/github3.png)
-
+---
 ![Admin's Interface](e-school/github3.png)
-
+---
 If the credentials are correct, the user will be redirected to the main menu where they can view their grades, averages, and more. The color of the text that indicates the average of the student is written depends on whether it is greater or smaller than the class average.
 
 ## Code Explanation
